@@ -1,0 +1,11 @@
+this is test
+My name is Han
+
+1966/5/20
+
+### Try wc < text.txt (this file name )
+
+#The number of lines in the file
+#The number of words in the file
+#The number of bytes in the file
+Sun Feb  5 23:07:14 PST 2017
